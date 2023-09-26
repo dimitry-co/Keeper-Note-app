@@ -1,2 +1,2 @@
 # Keeper-Note-app
-Enables users to create, manage, and delete notes
+react app that enables users to create, manage, and delete notes.
